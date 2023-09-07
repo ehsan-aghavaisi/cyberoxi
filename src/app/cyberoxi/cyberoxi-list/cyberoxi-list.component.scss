@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'font-fa';
+  src: url("/src/assets/IRANSansX-Bold.ttf");
+}
 .border1{
 
  box-shadow: 0px 3px rgba(196, 196, 196, 0.51);
@@ -12,7 +16,31 @@
   padding: 8px 48px;
   margin: 0px -20px;
   font-size: 14px;
+  color: rgb(0, 170, 126);
 }
 .li1{
   font-size:15px ;
+}
+.section1{
+  margin-top: 200px;
+}
+.imgsss{
+    width: 377px;
+  height: 70px;
+  margin-left: 180px;
+  margin-top: 10px;
+}
+
+.text-mom{
+  margin-left: -100px;
+}
+
+.h1{
+  font-family: 'font-fa';
+  font-size: 70px;
+  color: rgb(0, 170, 126);
+}
+.h5{
+  margin-top: 50px;
+  color: rgb(151, 151, 151);
 }
