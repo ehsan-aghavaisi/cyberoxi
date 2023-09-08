@@ -16,7 +16,7 @@
   padding: 8px 48px;
   margin: 0px -20px;
   font-size: 14px;
-  color: rgb(0, 170, 126);
+  outline-color: aqua;
 }
 .li1{
   font-size:15px ;
@@ -44,3 +44,25 @@
   margin-top: 50px;
   color: rgb(151, 151, 151);
 }
+.btn-primary{
+  background-color: rgb(0, 170, 126) !important;
+}
+.text-primary{
+  color: rgb(0, 170, 126) !important;
+}
+.text-primary:hover{
+  color: rgb(255, 255, 255) !important;
+}
+.border-primary{
+   border-color:rgb(0, 170, 126) !important;
+}
+.px-5{
+  padding: 10px 60px !important; ;
+}
+
+.btn-outline-success:hover{
+  background-color:  rgb(0, 170, 126)!important;
+
+}
+
+
